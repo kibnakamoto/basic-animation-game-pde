@@ -1,3 +1,12 @@
+// Copyright (c) 2022 Taha Canturk
+// Distributed under the Apache 2.0 software license, see the accompanying
+// file COPYING or http://www.apache.org/licenses/LICENSE-2.0
+
+/*
+ * Github: Kibnakamoto
+ * Date: May 11, 2022
+ */
+
 float car1Y;
 float car1X;
 float busX;
@@ -934,3 +943,5 @@ void draw() {
           busX = width+width/10*1.9; // reset
       }
 }
+
+/* more information can be found in README.md */
